@@ -1,0 +1,21 @@
+文档
+.doc————(Word文档，用微软的word等软件打开)
+.wps————(Wps文档，用金山公司的wps软件打开)
+.xls————(Excel电子表格，用微软的excel软件打开)
+.ppt————(Powerpoint演示文稿，用微软的powerpoint等软件打开)
+.txt————(纯文本，用记事本、写字板、word等都可以打开)
+.rar————(WinRAR压缩文件，用WinRAR等打开)
+.html————(网页文件，用浏览器、Microsoft Office FrontPage打开)
+.pdf————（用pdf阅读器打开、用pdf编辑器编辑）
+.dwg————（CAD图形文件，用AutoCAD等软件打开）
+.exe————(可执行文件)
+
+
+
+图片
+.bmp
+.jpg
+.png
+.gif
+.svg
+.psd

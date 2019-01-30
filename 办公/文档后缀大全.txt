@@ -1,0 +1,1573 @@
+扩展名 文件类型 打开方式
+
+.aiff 声音文件 Windows media Player
+
+.!!! Netants 暂存文件 Netants
+
+.ani 动画鼠标
+
+.arj 压缩文件 ARJ
+
+.avi 电影文件 Windows media Player
+
+.awd 传真文档
+
+.bak 备份文件
+
+.bas Basic 语言 Basic
+
+.bat DOS批处理文件
+
+.bin MAC 二进制码文件 Stuffit Expander
+
+.bmp 图象文件 画图/看图软件
+
+.cab 压缩文件 Winzip
+
+.cdr Corel图画文件 Corel Draw
+
+.chk Scandisk检察后制作的文件 可以删掉
+
+.com DOS命令文件 自执行
+
+.cpx Cryptapix加密图片文件 Cryptapix
+
+.cur 静态鼠标
+
+.dbf 数据库文件 dBase, FoxBase, Access
+
+.dll 应用程序扩展
+
+.doc 文档文件 Word
+
+.dwg AutoCAD文件 AutoCAD
+
+.eps Illustrator 图画文件 Adobe Illustrator
+
+.exe 执行文件 自执行
+
+.fon 字体文件
+
+.gb 国标码文件 南极星文字处理
+
+.get Getright 暂存文件
+
+.gif 256色图象文件 画图/看图软件
+
+.gz 可供UNIX或LINUX使用的压缩文件 Winzip
+
+.hqx Macintosh 文件 Stuffit Expander
+
+.htm 网页 浏览器
+
+.html 网页 浏览器
+
+.ico 图标
+
+.ini 配置设置 笔记本或WordPad
+
+.ipx IPX演示文件 浏览器加装IPX 插件
+
+.jiff 图象文件 画图/看图软件
+
+.jpeg 压缩过的图象文件 画图/看图软件
+
+.jpg 压缩过的图象文件 画图/看图软件
+
+.js javascript
+
+.lnk 快捷方式连接文件 连接文件的相应程序
+
+.m3u Winamp播放列表 Winamp
+
+.mid 声音文件 Windows media Player
+
+.vod Quicktime影像文件 Quick Time
+
+.mp3 压缩音乐文件 Winamp
+
+.mpeg 影像 Windows media Player
+
+.mpg 影像 Windows media Player
+
+.njx 南极星文档 南极星文字处理
+
+.pcb 电子电路图设计文件 Protel PCB
+
+.pdf 便携式文档格式，内含图片文字等等 Adobe Acrobat, Adobe Acrobat Reader
+
+.pm5 PageMaker 5 排版文件 Page Maker
+
+.ppt Power Point 文件 Microsoft Power Point
+
+.ps GhostScript
+
+.psd Photoshop文件 Adobe Photoshop
+
+.pub Publisher排版文件 Microsoft Publisher
+
+.qt Quicktime影像文件 Quick Time
+
+.ra Real Audio声音文件 Real Audio
+
+.ram Real Audio影像文件 Real Audio
+
+.rar 压缩文件 Winrar
+
+.rsf Richwin 字体文件
+
+.sch 电子原理图设计文件 Protel Schematic
+
+.scr 屏保文件
+
+.sea Macintosh 启动文件
+
+.sit 压缩 Stuffit Expander
+
+.swf Flash动画文件 浏览器加装Macromedia flash 插件
+
+.sys 系统文件
+
+.tar UNIX压缩文件 Winzip
+
+.tif 高质量图象文件 画图/看图软件
+
+.tiff 高质量图象文件 画图/看图软件
+
+.tmp 暂存文件 可以删掉
+
+.ttf 字体文件
+
+.txt 纯文本文件 笔记本或全部文字处理系统
+
+.vbs Visual Basic 编程文件 Microsoft Viasual Basic
+
+.viv VIVO影像文件 浏览器加装VIVO 插件
+
+.vqf 压缩声音文件 Yamaha SoundVQ Player
+
+.wav 未压缩的声音文件 Windows media Player
+
+.wk1 Lotus 123 试算软件文件 Lotus 123, Excel
+
+.w
+
+q1 Q-Pro 试算软件文件 Q-Pro, Excel
+
+.wri Write文字文档 Word
+
+.xls Excel 试算软件文件 Microsoft Excel
+
+.Z UNIX压缩文件 Winzip
+
+.zip 压缩文件 Winzip
+
+图像文件：
+
+bmp Windows or OS/2 Bitmap
+
+clp Windows Clipboard
+
+cup Dr. Halo
+
+dib Windows or OS/2 DIB
+
+emf Windows Enhanced Meta file
+
+eps Encapsulated PostScript
+
+fpx Flash Pix
+
+gif Compuserver
+
+iff Amiga
+
+img GEM Paint
+
+jpg JPEG - JFIF Compliant
+
+lbm Deluxe Paint
+
+mac Mac Paint
+
+msp Macrosoft Paint
+
+pbm Potable Bitmap
+
+pct Macintosh Pict
+
+pcx Zsoft Paintbrush
+
+pic PC Paint
+
+png Portable Network Graphics
+
+ppm Portable Pixelmap
+
+psd Photoshop
+
+psp Paint Shop Pro Image
+
+ras Sun Raster Image
+
+raw Eaw File format
+
+rle Windows or CompuServer RLE
+
+sct SciTex Continuous Tone
+
+tga Truevision Targa
+
+tif Tagged Image file format
+
+wmf Windows Meta File
+
+wpg WordPefect Bitmap
+
+.ACA
+
+Microsoft的代理使用的角色文档
+
+.ace
+
+一种压缩格式文档，压缩率甚至超过WinRAR,可以使用WINACE等工具打开
+
+.acf
+
+系统管理配置
+
+.acm
+
+音频压缩管理驱动程序,为Windows系统提供各种声音格式的编码和解码功能
+
+.acs
+
+同.acm，但保存于本地
+
+.ADE
+
+Microsoft Access项目扩展
+
+.ADN
+
+Microsoft Access的空白项目模板
+
+.ADP
+
+Microsoft Access的项目
+
+.aif
+
+声音文件，支持压缩，可以使用Windows Media Player和QuickTime Player播放
+
+.AIF
+
+音频文件，使用Windows Media Player播放
+
+.AIFC
+
+音频文件，使用Windows Media Player播放
+
+.AIFF
+
+音频文件，使用Windows Media Player播放
+
+.ani
+
+动画光标文件扩展名，例如动画沙漏。
+
+.ans
+
+ASCII字符图形动画文件
+
+.ap
+
+应用文件，存在于Dbase,Foxbase,Foxpro系统软件的环境下
+
+.app
+
+应用文件，存在于Dbase,Foxbase,Foxpro系统软件的环境下
+
+.arc
+
+一种较早的压缩文件，可以使用WinZip,WinRAR,PKARC等软件打开
+
+.arj
+
+压缩文件。可以使用WinZip,WinRAR,PKARC等软件打开
+
+.art
+
+是美国在线最常使用的映象格式，如果使用Windows 2000必须安装补丁才能查看
+
+.asc
+
+ASCII文本文件，这些文本可以被所有类型的字处理构件处理。有些系统中也可能会使用这些文件扩展名来表示文件中包含图象信息
+
+.asf
+
+数据文件或是莲花(Lotus)1-2-3下的屏幕文件
+
+.asf
+
+微软的媒体播放器支持的视频流，可以使用Windows Media Player播放
+
+.ash
+
+汇编语言包含文件，类似C/C++中的.h文件
+
+.asm
+
+汇编语言源程序文件，一般使用MASM或者Turbo ASM编译
+
+.asp
+
+微软的视频流文件，可以使用Windows Media Player打开
+
+.asp
+
+微软提出的Active Server Page,是服务器端脚本，常用于大型网站开发，支持数据库连接，类似PHP。可以使用Visual InterDev编写，是目前的大热门
+
+.asx
+
+Windows Media 媒体文件的快捷方式
+
+.au
+
+是Internet中常用的声音文件格式，多由Sun工作站创建，可使用软件Waveform Hold an
+
+d Modify 播放。Netscape Navigator中的LiveAudio也可以播放.au文件
+
+.avi
+
+一种使用Microsoft RIFF规范的Windows多媒体文件格式，用于存储声音和移动的图片
+
+.awd
+
+传真浏览文档，用于传真的显示
+
+.awp
+
+传真关键词浏览器
+
+.aws
+
+传真签名浏览器
+
+.adm
+
+ADM_auto 文件
+
+.b64
+
+Base64编码的文件，可以使用WinZip编码
+
+.bak
+
+备份文件，一般是被自动或是通过命令创建的辅助文件，它包含某个文件的最近一个版本，并且具有于该文件相同的文件名
+
+.bas
+
+Basic 语言源程序文件，可编译成可执行文件,目前使用Basic开发系统的是Visual Basic
+
+.bat
+
+批处理文件，在MS-DOS中，.bat文件是可执行文件，有一系列命令构成，其中可以包含对其他程序的调用
+
+.bbs
+
+电子告示板系统文章信息文件
+
+.bfc
+
+Windows的公文包文件
+
+.bin
+
+二进制文件，其用途依系统或应用而定
+
+.bmp
+
+Bitmap位图文件，这是微软公司开发Paint的自身格式，可以被多种Windows和Windows NT平台及许多应用程序支持，支持32位颜色，用于为Windows界面创建图标的资源文件格式。
+
+.bw
+
+是包含各种像素信息的一中黑白图形文件格式
+
+.c
+
+C 语言源程序文件，在C语言编译程序下编译使用
+
+.cab
+
+Microsoft制订的压缩包格式，常用于软件的安装程序，使用Windows自带的实用程序，Extract.exe可以对其解压缩，WinZip,WinRAR等都支持这种格式
+
+.cad
+
+AUTOCAD 图形文件
+
+.cal
+
+Windows 中的日历文件
+
+.cbx
+
+标签文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.cda
+
+保存在AudioCD上的CD音轨
+
+.cdf
+
+Internet Explorer的频道文件
+
+.cdr
+
+CorelDraw中的一种图形文件格式，它是所有CorelDraw应用程序中均能够使用的一种图形图像文件格式
+
+.cdx
+
+索引文件，存在于Dbase,Foxbase,Foxpro系统软件环境下
+
+.cfg
+
+配置文件，系统或应用软件用于进行配置自己功能，特性的文件
+
+.chm
+
+编译过后的HTML文件，常用于制作帮助文件和电子文档
+
+.clp
+
+在Windows下剪贴板中的文件格式
+
+.cmd
+
+用于Windows NT/2000的批处理文件，其实与BAT文件功能相同，只是为了与DOS/Windows 9x下的BAT有所区别
+
+.cmf
+
+声卡标准的音乐文件，FM合成器等可以回放
+
+.cnf
+
+NetMeetting会议连接文件
+
+.cnt
+
+联机帮助文件目录索引文件，通常和同名的.hlp文件一起保存
+
+.col
+
+由Autodesk Animator,Autodesk Animator Por等程序创建的一种调色板文件格式，其中存储的是调色板中各种项目的RGB值
+
+.com
+
+DOS可执行命令文件，一般小于64KB
+
+.cpd
+
+传真封面文件
+
+.cpe
+
+传真封面文件
+
+.cpi
+
+国际代码页，用于提供相应国家的代码页信息
+
+.cpl
+
+控制面板扩展文件，Windows操作系统使用
+
+.cpp
+
+C++语言源程序，非常强大的语言，在各种平台中都有相应的开发系统
+
+.crd
+
+Windows中的卡片文件
+
+.crd
+
+Windows中的卡片文件
+
+.c
+
+rt
+
+用于安全方面的证书认证文件
+
+.csv
+
+用逗号分割的文本文件，一般用于在不同应用程序之间进行数据交换
+
+.cur
+
+Windows下的光标资源文件格式，可用光标编辑软件编辑
+
+.css
+
+Text/css文件
+
+.dat
+
+数据文件，在应用程序中使用
+
+.dat
+
+VCD中的图象声音文件，VCD播放软件可调用，或是通过VCD机播放
+
+.dbf
+
+数据库文件，Foxbase,Dbase,Visual FoxPro,等数据库处理系统所产生的数据库文件
+
+.dcx
+
+传真浏览文档文件
+
+.ddi
+
+映象文件，DUP,HD,IMG等工具可展开
+
+.dev
+
+设备驱动程序
+
+.dib
+
+设备无关位图文件，这是一种文件格式，其目的是为了保证用某个应用程序创建的位图图形可以被其它应用程序装载或显示一样
+
+.dir
+
+目录文件
+
+.dll
+
+Windows动态连接库，几乎无处不在，但有时由于不同版本DLL冲突会造成败各种各样的问踢
+
+.doc
+
+是目前市场占有率最高的办公室软件Microsoft Office中的字处理软件Word创建的文档
+
+.dos
+
+Windows保留的MS-DOS的某些系统文件
+
+.dot
+
+Microsoft Word的文档模板文件，通过模板可以简化一些常用格式文档的创建工作,而且可以内嵌VBA程序来实现某些自动化功能
+
+.drv
+
+设备驱动程序文件，用在各种系统中
+
+.dwg
+
+AutoCAD的图纸文件，也是许多绘图软件都支持的格式，常用于共享数据
+
+.dxb
+
+AutoCAD创建的一中图形文件格式
+
+.dxf
+
+图形交换格式，一种计算机辅助设计的文件格式，最初开发用来与AutoCAD一起使用，以便于图形文件在应用程序之间的传递,它以ASCII方式储存图形，在表现图形的大小方面十分精确
+
+.der
+
+Certiticate文件
+
+.dic
+
+Txt文件
+
+.emf
+
+由Microsoft公司开发的Windows 32位扩展图元文件格式，其总体设计目标是要彌补在Microsoft Windows 3.1(Win16)中用的*.wmf文件格式的不足,使得图元文件更加易于使用
+
+.eps
+
+用PostScript语言描述的一种图形文件格式，以文本文件保存，在PostScript图形打印机上能打印出高品质的图形图象，最高能表示32位图形图象
+
+.err
+
+编译错误文件，存在于Dbase,Foxbase,Foxpro系列软件环境下
+
+.exe
+
+可执行文件，虽然后缀名相同，但具有不同的格式和版本
+
+.exp
+
+3DS使用的显示卡驱动程序
+
+.exc
+
+Txt文件
+
+.fky
+
+键宏文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.flc
+
+Autodesk Animator和Animatorpro的动画文件，支持256色，最大的图象象索是64000*64000,支持压缩，广泛用于动画图形中的动画序列，计算机辅助设计和计算机游戏应用程序
+
+.fnd
+
+保存的搜索结果
+
+.fon
+
+点阵字库文件
+
+.for
+
+Fortran语言程序
+
+.fot
+
+指向字体的快捷键
+
+.fp
+
+配置文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.fpt
+
+备注字段文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.frt
+
+报表文件,存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.frx
+
+报表文件,存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.fxp
+
+编译后的程序，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.h
+
+C语言源程序头文件
+
+.hlp
+
+Windows应用程序帮助文件
+
+.hqx
+
+Macintosh中使用BinHex将二进制文件编码为7位的文本文件，大多数Macintosh文件皆以.hqx出现(.bin极少使用)，在Macintosh中,可使用StuffIt Expander对.hqx解码，在Windows中可使用BinHex 13解码
+
+.ht
+
+超级终端
+
+.htm
+
+保存超文本描述语言的文本文件，用于描述各种各样的网页，使用各种浏览器打开
+
+.html
+
+同.htm文件
+
+.icm
+
+图象配色描述文件
+
+.ico
+
+Windows中的图标文件，可以包含同一个图标的多种格式，使用图标编辑软件创建
+
+.idf
+
+MIDI乐器定义
+
+.idx
+
+索引文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.iff
+
+文件交换格式文件，这种文件格式多用于Amiga平台,在这种平台上它几乎可以存储各种类型的数据，在其它平台上，IFF文件格式多用于存储图象和声音文件
+
+.image
+
+MAcintosh磁盘映象文件，常见于萍果机的FTP网点，在Macintosh中由Shrink Wrap处理
+
+.ime
+
+Windows下的输入法文件
+
+.img
+
+磁盘映象文件，用HD-COPY,WinImage等工具打开后可以恢复到一张磁盘上
+
+.inc
+
+汇编语言包含文件，类似C/C++中的.H文件
+
+.inf
+
+Windows下的软件安装信息，Windows的标准安装程序根据此文件内的安装信息对软件，驱动程序等进行安装
+
+.ini
+
+Windows中的初始化信息文件,已经用的不多了，新的应用程序将设置保存在系统的注册表中
+
+.jar
+
+一种压缩文件，ARJ的新版本，不过不太流行，可以使用WinJar,Winrar等打开
+
+.jpeg
+
+一种图片压缩文件,同.jpg
+
+.jpg
+
+静态图象专家组制订的静态图象压缩标准，具有很高的压缩比，使用非常广泛，可使用PhotoShop等图象处理软件创建
+
+.job
+
+JobObject
+
+.jfif
+
+Jpeg文件
+
+.kbd
+
+键盘布局文件
+
+.lmb
+
+Deluxe Paint中使用的一种图形文件格式，其编码方式类似于*.iff
+
+.lnk
+
+快捷方式，这个文件指向另一个文件，开始菜单的程序文件夹下每条项目都是一个LNK文件
+
+.log
+
+日志文件,通常用来记录一些事件之类
+
+.lzh
+
+一种古老的压缩文件，可以使用WinRAR打开
+
+mac
+
+Macintosh中使用的一中灰度图形文件格式，在Macintosh Paintbrush中使用，其分辨率只能是720*567
+
+.mag
+
+图形文件格式
+
+.mcc
+
+Dialer10CallingCard(电话卡文件)
+
+.mci
+
+MCI命令集
+
+.mdb
+
+Microsoft Access使用的数据库格式，是非常流行的桌面数据库
+
+.men
+
+内存应用文件,存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mid
+
+音频压缩文件，曾经非常流行，不过在现在的软件中用的很少了
+
+.mif
+
+MIDI乐器
+
+.mmf
+
+Microsoft 邮件，比较少见
+
+.mnt
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mnx
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件
+
+的环境下
+
+.moov
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.mov
+
+使用Apple's QuickTime格式的电影文件，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.movie
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放,在Windows中可由QuickTime播放
+
+.mp3
+
+采用MPEG-1 Layout 3标准压缩的音频文件，是网上主要的压缩音频文件，这种文件由于具有极高的压缩率和失真低的特点，是目前音乐盗版的主要文件格式，但目前受到VQF,WMA等新标准的挑战
+
+.mpg
+
+采用MPEG-1标准压缩的视频文件，与VCD使用的格式非常相近，提供CD质量的音频信号和320*240的视频分辩率，目前的媒体播放软件大都能播放,Microsoft的WMV8和MPEG-4压缩的AVI文件是其强大的竞争对手
+
+.mpt
+
+Macintosh中使用的一种图形文件格式
+
+.msg
+
+Microsoft邮件文档
+
+.msk
+
+Animator Pro中的一种图形文件格式，其中包含一个位图图形
+
+.msn
+
+Microsoft网络的文件
+
+.mmm
+
+Mplayer
+
+.mlv
+
+MPEG文件
+
+.mak
+
+Mak文件
+
+.man
+
+Application/x-trof-man格式的文件
+
+.mpa
+
+MPEG文件
+
+.mpe
+
+MPEG文件
+
+mac
+
+Macintosh中使用的一中灰度图形文件格式，在Macintosh Paintbrush中使用，其分辨率只能是720*567
+
+.mag
+
+图形文件格式
+
+.mcc
+
+Dialer10CallingCard(电话卡文件)
+
+.mci
+
+MCI命令集
+
+.mdb
+
+Microsoft Access使用的数据库格式，是非常流行的桌面数据库
+
+.men
+
+内存应用文件,存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mid
+
+音频压缩文件，曾经非常流行，不过在现在的软件中用的很少了
+
+.mif
+
+MIDI乐器
+
+.mmf
+
+Microsoft 邮件，比较少见
+
+.mnt
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mnx
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.moov
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.mov
+
+使用Apple's QuickTime格式的电影文件，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.movie
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放,在Windows中可由QuickTime播放
+
+.mp3
+
+采用MPEG-1 Layout 3标准压缩的音频文件，是网上主要的压缩音频文件，这种文件由于具有极高的压缩率和失真低的特点，是目前音乐盗版的主要文件格式，但目前受到VQF,WMA等新标准的挑战
+
+.mpg
+
+采用MPEG-1标准压缩的视频文件，与VCD使用的格式非常相近，提供CD质量的音频信号和320*240的视频分辩率，目前的媒体播放软件大都能播放,Microsoft的WMV8和MPEG-4压缩的AVI文件是其强大的竞争对手
+
+.mpt
+
+Macintosh中使用的一种图形文件格式
+
+.ms
+
+g
+
+Microsoft邮件文档
+
+.msk
+
+Animator Pro中的一种图形文件格式，其中包含一个位图图形
+
+.msn
+
+Microsoft网络的文件
+
+.mmm
+
+Mplayer
+
+.mlv
+
+MPEG文件
+
+.mak
+
+Mak文件
+
+.man
+
+Application/x-trof-man格式的文件
+
+.mpa
+
+MPEG文件
+
+.mpe
+
+MPEG文件
+
+mac
+
+Macintosh中使用的一中灰度图形文件格式，在Macintosh Paintbrush中使用，其分辨率只能是720*567
+
+.mag
+
+图形文件格式
+
+.mcc
+
+Dialer10CallingCard(电话卡文件)
+
+.mci
+
+MCI命令集
+
+.mdb
+
+Microsoft Access使用的数据库格式，是非常流行的桌面数据库
+
+.men
+
+内存应用文件,存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mid
+
+音频压缩文件，曾经非常流行，不过在现在的软件中用的很少了
+
+.mif
+
+MIDI乐器
+
+.mmf
+
+Microsoft 邮件，比较少见
+
+.mnt
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.mnx
+
+菜单文件，存在于Dbase,Foxbase,Foxpro系列软件的环境下
+
+.moov
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.mov
+
+使用Apple's QuickTime格式的电影文件，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.movie
+
+QuickTime或苹果机的影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放,在Windows中可由QuickTime播放
+
+.mp3
+
+采用MPEG-1 Layout 3标准压缩的音频文件，是网上主要的压缩音频文件，这种文件由于具有极高的压缩率和失真低的特点，是目前音乐盗版的主要文件格式，但目前受到VQF,WMA等新标准的挑战
+
+.mpg
+
+采用MPEG-1标准压缩的视频文件，与VCD使用的格式非常相近，提供CD质量的音频信号和320*240的视频分辩率，目前的媒体播放软件大都能播放,Microsoft的WMV8和MPEG-4压缩的AVI文件是其强大的竞争对手
+
+.mpt
+
+Macintosh中使用的一种图形文件格式
+
+.msg
+
+Microsoft邮件文档
+
+.msk
+
+Animator Pro中的一种图形文件格式，其中包含一个位图图形
+
+.msn
+
+Microsoft网络的文件
+
+.mmm
+
+Mplayer
+
+.mlv
+
+MPEG文件
+
+.mak
+
+Mak文件
+
+.man
+
+Application/x-trof-man格式的文件
+
+.mpa
+
+MPEG文件
+
+.mpe
+
+MPEG文件
+
+.obj
+
+对象代码
+
+.opt
+
+是Animator Pro创建的图形文件格式
+
+.ovl
+
+由于软件功能多，内存偏小，不能一次性全部调入内存的可执行文件可能有同文件名的ovl文件
+
+.obd
+
+Office.binder.95
+
+.obt
+
+Office.Binder.Template
+
+.obz
+
+Office.Binder.Wizard
+
+.ofn
+
+Office.File.New
+
+.p
+
+Pascal源程序文件
+
+.pab
+
+Microsoft邮件
+
+.pas
+
+Pascal源程序文件
+
+.pcb
+
+库文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.pcd
+
+位图文件，由Eastman Kodak开发，被所有的平台所支持，PCD支持24位颜色，最大的图象像索是2048*3072，用于在CD-ROM上保存图片
+
+.pcs
+
+动画文件，是Macromedia开发的动画文件格式，为Macintosh应用程序使用,支持压缩，支持256色，用
+
+于保存动画数据，是Quick Time的前身
+
+.pcx
+
+图像文件，PCX格式是ZSOFT公司在开发图像处理软件Paintbrush是开发的一种格式，这是一种经过压缩的格式，占用磁盘空间较少
+
+.pdf
+
+图文多媒体文件，Adobe公司定义的电子印刷品文件格式，它是一种事实上的标准，在Internet网上的很多电子印刷品，都是.pdf格式的
+
+.pf
+
+ICM描述文件
+
+.pic
+
+同.pcs
+
+.pif
+
+为DOS环境下的可执行文件在Windows下执行时所需要的配置文件，也具有快捷方式的作用
+
+.pjt
+
+同.pif
+
+.pjx
+
+工程文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.ply
+
+Animator Pro创建的一种图形文件格式，其中包含用来描述多边形的一系列点的信息
+
+.png
+
+网络图像文件，该文件采用无损压缩方式减少文件大小，但目前不支持动画
+
+.ppd
+
+是PostScript打印机描述数文件，它为PostScript打印机驱动程序描述了某一打印机的特性
+
+.prg
+
+命令文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.prt
+
+打印机格式
+
+.psd
+
+是PhotoShop中使用的一种标准图形文件格式，能够保存图像数据的每一个细小部分，包括层，附加的蒙版通道以及其他内容
+
+.pst
+
+Microsoft邮件
+
+.pwl
+
+Windows下的口令文件
+
+.pbk
+
+MSN_PhoneBook
+
+.pma
+
+Perf文件
+
+.pmc
+
+Perf文件
+
+.pml
+
+Perf文件
+
+.pmr
+
+Perf文件
+
+.pmw
+
+Perf文件
+
+.pfm
+
+Pfm文件
+
+.pnf
+
+Pnf文件
+
+.qic
+
+Microsoft备份策略
+
+.qpr
+
+查询文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.qpx
+
+查询文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.qt
+
+Machintosh 的QuickTime影视格式，在Macintosh中由Sparkle,FastPlayer,MoviePlayer等软件播放，在Windows中可由Quicktime播放
+
+.qtm
+
+动画文件，这种文件格式是由Apple计算机公司开发，被Apple Macintosh和Microsoft Windows平台所支持，支持25位颜色，最大图像分辩率是64000*64000,支持压缩，用于保存音频和运动视频信息
+
+.que
+
+QueueObject
+
+.rar
+
+WinRAR提供的压缩文件格式，压缩率超过ZIP,同时提供的功能也更为丰富
+
+.rec
+
+Windows下的记录器宏文件
+
+.reg
+
+Windows 95的系统及应用程序注册文件，这种文件虽然以纯文本文件保存，但一样存在版本问题，不同的操作系统使用的REG文件版本是不同的
+
+.rif
+
+RTF格式(Rich Text Format)文件
+
+.rle
+
+一种压缩过的位图文件格式，RLE压缩方案是一种极其成熟的压缩方案，特点是无损失压缩，既节省了磁盘空间又不损失任何图像数据，但在打开这种压缩文件时，ǚ迅嗍奔洌送猓恍┘嫒菪圆惶玫挠τ贸绦蚩赡芑岽畈豢?br>.rm
+
+Windows下的RealPlayer所支持的视频压缩文件，网上非常流行的流式视频文件，很多实时视频新闻等都是采用这种格式的，不过，最新的Windows Media Video V8已经对其发起了强大的攻势
+
+.rmi
+
+MIDI音序文件
+
+.rtf
+
+丰富文本格式
+
+文件，以纯文本描述内容，能够保存各种格式信息，可以用写字版，Word等创建
+
+.ra
+
+ReadAudio文件
+
+.ram
+
+ReadAudio文件
+
+.rnk
+
+Rnk文件
+
+.rpm
+
+Audio/x-pn-realaudio-plugin格式文件
+
+.sav
+
+存档文件
+
+.scp
+
+用于Windows系统中Internet拨号用户，自动拨号登录用的脚本文件，可避免手动登录时繁琐的键盘输入
+
+.scr
+
+屏障保护文件
+
+.sct
+
+屏幕文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.scx
+
+屏幕文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.set
+
+Microsoft备份集文件，用于保存要备份的内容，设置等信息
+
+.shb
+
+指向一个文档的快捷方式
+
+.shs
+
+碎片，可以从写字板中拖放一段文本到桌面上创建一个碎片，但使用价值不大
+
+.snd
+
+Mac声音文件,Apple计算机公司开发的声音文件格式，被Macintosh平台和多种Macintosh应用程序所支持，支持某些压缩
+
+.spd
+
+PostScript打印机描述文件
+
+.sql
+
+查询文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.svg
+
+SVG可以算是目前最火热的图像文件格式了，它是基于XML由WorldWideWebConsortium联盟开发的，SVG是可缩放的矢量图形
+
+.svx
+
+Amiga声音文件，Commodore所开发的声音文件格式，被Amiga平台和应用程序所支持，不支持压缩
+
+.swf
+
+flash是Micromedia公司的产品，严格说它是一种动画编辑软件，实际上它是制作出一种后缀名为.swf的动画，这种格式的动画能用比较小的体积来表现丰富的多媒体形式，并且还可以与HTML文件达到一种“水乳交融”的境界
+
+.swg
+
+虚拟内存交换文件，由操作系统使用
+
+.sys
+
+系统文件，驱动程序等，在不同的操作系统中有不同的定义
+
+.slk
+
+Excel.SLK
+
+.sit
+
+Application/x-stuffit格式文件
+
+.taz
+
+是以.Z格式压缩的TAR文件
+
+.tbk
+
+临时数据库文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.tga
+
+图像文件，此文件格式的结构比较简单，属于一种图形，图像数据的通用格式，在多媒体领域有着很大影响，是计算机生成图像向电视转换的一种首选格式
+
+.tgz
+
+Winzip
+
+.tif
+
+同tiff
+
+.tiff
+
+图像文件，此图像格式复杂，存储内容多，占用存储空间大，其大小是GIF图像的3倍，是相应的JPEG图像的10倍，最早流行于Macintosh,现在Windows主流的图像应用程序都支持此格式
+
+.tmp
+
+临时文件，一般是系统和应用程序产生的临时使用的文件，当系统和应用程序退出时，会自动地删除其建立的临时文件，如果是非正常退出，临时文件可能保留在磁盘上，在单任务系统下，可立即删除它们，在多任务系统下，应删除那些不是正在使用的临时文件
+
+.trn
+
+翻译文件
+
+.tsp
+
+电话服务提供者
+
+.ttf
+
+TrueType格式的字体文件，可以使用FontView.Exe查看
+
+.txt
+
+文本文件
+
+.ttc
+
+Ttc 文件
+
+.tar
+
+Winzip
+
+.url
+
+InternetShortcut(internet 上URL地址的
+
+快捷方式)
+
+.uls
+
+ULS文件
+
+.vbx
+
+Microsoft 的Visual Basic语言的控件
+
+.vcd
+
+虚拟光驱工具制作的光盘镜像文件
+
+.ver
+
+版本描述，用于描述某个软件的版本信息的文件，内容因软件而异
+
+.voc
+
+声音文件，此文件格式由Creative Labs公司开发，被Windows和DOS平台所支持，支持压缩
+
+.vxd
+
+虚拟设备驱动程序，在Windows操作系统中非常常见，是重要的系统文件
+
+.vir
+
+Vir文件
+
+.vsd
+
+Visio.Drawing.4
+
+.vss
+
+Visio.Drawing.4
+
+.vst
+
+Visio.Drawing.4
+
+.vsw
+
+Visio.Drawing.4
+
+.wab
+
+通信簿文件，由系统中的通信簿程序使用
+
+.wav
+
+音频文件，此文件格式是在Windows上用于保存音频信息的资源格式，Windows中由Waveform Hold and Modify或Navigator，或“媒体播放机”播放，存在许多编码方式，需要相应的解码程序才能播放
+
+.win
+
+窗口文件，在Dbase,Foxbase,Foxpro系列软件的环境下使用
+
+.wmf
+
+Microsoft Windows中常见的一种图元文件格式，它具有文件短小，图案造型化的特点，整个图形常由各个独立的组成部分拼接而成，但其图形往往较粗糙，并且只能在Microsoft Office中调用编辑
+
+.wpc
+
+写字板文档转换
+
+.wps
+
+Wps文本文件，有多种版本，可以使用Wps Office,Wps 2000等打开
+
+.wri
+
+Windows写字板文档
+
+.wll
+
+Word.Addin
+
+.wbk
+
+Work.Backup
+
+.wiz
+
+Word.Wizard
+
+.wht
+
+Whiteboard
+
+.xab
+
+Microsoft邮件地址簿
+
+.xbm
+
+Animator Pro创建的一种图形文件格式，其中包含用来描述多边形的一系列点的信息
+
+.xif
+
+Xifimage下产生的文档
+
+.xla
+
+EXCEL.Addim
+
+.xlk
+
+Excel.Backup
+
+.xlc
+
+Excel.Chart.5
+
+.xlb
+
+Excel.Sheet.5
+
+.xlc
+
+Excel.Chart.5
+
+.xlt
+
+Excel.Template
+
+.xlv
+
+Excel.VBAModule
+
+.xlw
+
+Excel.Workspace
+
+.xll
+
+Excel.XLL
+
+.xlm
+
+Excel.Macro.Sheet
+
+.z
+
+一种压缩文件
+
+.zip
+
+是DOS/Windows中最常见文件压缩格式，也是互联网上的标准压缩格式，可以包含路径和多个文件

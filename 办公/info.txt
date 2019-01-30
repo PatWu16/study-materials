@@ -1,0 +1,49 @@
+汉能学堂
+初始密码 123456
+
+工号 10039943
+
+仓库信息
+wangzhi:http://192.168.19.122:8080/tfs
+账户：wupeng
+密码：123@qwe
+
+旧系统
+http://192.168.19.122:60
+dmstestlb@test.com
+123456
+
+\\centerbc\Share-HNGY-信息与流程部\
+\\center01\Share- 光伏应用集团流程梳理项目
+
+能商网原型放置目录：\\centerbc\Share-HNGY-信息与流程部\22 能商网二期\01_原型设计
+
+本机的IP地址     10.2.59.33
+
+部门公共邮箱  http://mail.hanergy.com 用户名hngybpit 密码 bpit@12345
+
+svn文件管理信息
+https://192.168.19.122/svn/Files/wupeng
+管理员账号：administrator
+管理员密码：12345@hn
+
+扫描文件夹
+\\10.2.21.1\scan file
+\\centerbc\SCAN FILE
+
+新版kk
+\\center01\Share-Software\1.KK
+
+kk配置参数
+服务器地址：kk.hanergy.com
+端口：5100
+
+手机登录公司邮箱配置参数
+
+模式：exchange
+
+域：unipower.cn
+服务器 ：mail.hanergy.com
+
+名称：pat
+苹果无线上网码：7f4gcd5d
